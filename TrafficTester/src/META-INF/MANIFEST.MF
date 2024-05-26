@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: Tester
+Class-Path: /Users/dk/IdeaProjects/TrafficTester/out/production/TrafficT
+ ester/Tester.class
+
